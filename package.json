@@ -5,7 +5,7 @@
   "repository": "https://github.com/lintdeveloper/deploy-node.git",
   "author": "lintdeveloper <musabrillz@gmail.com>",
   "scripts": {
-    "test": "nyc tape ./test/**/*.js"
+    "test": "echo \"Fake Tests\" && exit 1"
   },
   "license": "MIT",
   "dependencies": {
