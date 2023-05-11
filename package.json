@@ -1,0 +1,14 @@
+{
+  "name": "deploy-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lintdeveloper/deploy-node.git",
+  "author": "lintdeveloper <musabrillz@gmail.com>",
+  "scripts": {
+    "test": "nyc tape ./test/**/*.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "3.2"
+  }
+}
