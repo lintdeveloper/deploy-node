@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "fastify": "3.2"
+  },
+  "devDependencies": {
+    "tape": "5"
   }
 }
